@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that can make me gain new knowledge and abroad my knowledge in tech
 - 📫 How to reach me: Follow the links on my profile
 - 😄 Pronouns: ME
-- ⚡ Fun fact: I am a perfecionist lazy-hardworking person
+- ⚡ Fun fact: Y's
 
 <!---
 BenjamimNdayisaba/BenjamimNdayisaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
