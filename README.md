@@ -2,9 +2,10 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ha2Q4eTF4a3lxYjgydnJtM2YwZmY5MXNpcW5oOHBjZDdsM3M5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </div>
 <div id="badges" align="center">
-  <a href="[https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Badge"/>
-  </a>
+ <a href="https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+
   <a href="https://x.com/bnjkx_?s=11"
     <img src="[https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white%22%20alt=%22x%20Badge)"/>
   </a>
