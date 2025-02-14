@@ -6,12 +6,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 
-  <a href="https://x.com/bnjkx_?s=11"
-    <img src="[https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white%22%20alt=%22x%20Badge)"/>
-  </a>
-  <a href="mailto:ndayisababenjamin123@gmail.com">
-    <img src="[https://img.shields.io/badge/-red?style=for-the-badge&logo=Gmail&logoColor=white%22%20alt=%22Gmail%20Badge)"/>
-  </a>
+<a href="https://x.com/bnjkx_?s=11">
+    <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
+</a>
+
+<a href="mailto:ndayisababenjamin123@gmail.com">
+    <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+
 </div>
 <h1>
 
