@@ -3,7 +3,7 @@
 </div>
 <div id="badges" align="center">
   <a href="[https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt=" Badge"/>
   </a>
   <a href="https://x.com/bnjkx_?s=11"
     <img src="[https://img.shields.io/badge/-black?style=for-the-badge&logo=X&logoColor=white%22%20alt=%22x%20Badge)"/>
