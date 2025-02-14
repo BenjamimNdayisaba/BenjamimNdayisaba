@@ -15,11 +15,11 @@
 <h1>
 
 
-Hey there! I'm a Computer Science student passionate about all things tech. Whether it's coding up new projects, diving into AI and machine learning, or just exploring the latest advancements in software development, I love expanding my knowledge and building cool stuff.
+Hey there! I'm a Computer Science student passionate about all things in tech. Whether it's coding up new projects, diving into ux/ui, data analisysis, machine learning, or just exploring the latest advancements in software development, I love expanding my knowledge and building cool stuff.
 
 ## 🚀 Interests & Skills
 
-- **Programming Languages**: Python, Java, C++, JavaScript
+- ** Fav Programming Languages**: Python, Java, C++, JavaScript
 - **Development**: Full-Stack Web Development, Mobile App Development
 - **AI & ML**: Neural Networks, Data Science, NLP
 - **Cybersecurity**: Ethical Hacking, Cryptography, Penetration Testing
@@ -34,10 +34,12 @@ Hey there! I'm a Computer Science student passionate about all things tech. Whet
 
 ## 🛠️ Projects
 
-Here are a few things I've worked on:
-- **AI Chatbot**: A Python-based chatbot that utilizes NLP to respond intelligently.
+Here are a few things I've worked on and I am still working on:
+- **Weather app**: A TS based application that enables the user to check the weather condition in any place.
 - **Portfolio Website**: Built with React, showcasing my projects and blog posts.
 - **Cybersecurity Toolkit**: A collection of scripts for security testing.
+- **C projects**: A collection of mini programs based on C programming language.
+- **A Python based programm that analyse different data sets**
 
 
 Let's build something awesome together! 🚀
