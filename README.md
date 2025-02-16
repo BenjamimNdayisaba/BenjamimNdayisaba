@@ -16,29 +16,6 @@
 
 </div>
 <h1>
-  <svg
-        width="350"
-        height="215"
-        viewBox="0 0 350 215"
-        fill="none"
-        xmlns="http://www.w3.org/2000/svg"
-        role="img"
-        aria-labelledby="descId"
-      >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
-        <style>
-          .header {
-            font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #006AFF;
-            animation: fadeInAnimation 0.8s ease-in-out forwards;
-          }
-          @supports(-moz-appearance: auto) {
-            /* Selector detects Firefox */
-            .header { font-size: 15.5px; }
-          }
-          
-
 Hey there! I'm a Computer Science student passionate about all things in tech. Whether it's coding up new projects, diving into ux/ui, data analisysis, machine learning, or just exploring the latest advancements in software development, I love expanding my knowledge and building cool stuff.
 
 ## 🚀 Interests & Skills
