@@ -10,10 +10,6 @@
  
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ha2Q4eTF4a3lxYjgydnJtM2YwZmY5MXNpcW5oOHBjZDdsM3M5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjamimNdayisaba&theme=xcode&hide_border=true" alt="Activity graph">
-</a>
-
 </div>
 <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/">
@@ -26,6 +22,9 @@
 
 <a href="mailto:ndayisababenjamin123@gmail.com">
     <img src="https://img.shields.io/badge/-red?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BenjamimNdayisaba&theme=xcode&hide_border=true" alt="Activity graph">
 </a>
 
 </div>
