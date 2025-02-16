@@ -11,6 +11,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb29ha2Q4eTF4a3lxYjgydnJtM2YwZmY5MXNpcW5oOHBjZDdsM3M5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </div>
+Hey there! I'm a Computer Science student passionate about all things in tech. Whether it's coding up new projects, diving into ux/ui, data analisysis, machine learning, or just exploring the latest advancements in software development, I love expanding my knowledge and building cool stuff.
+
 <div id="badges" align="center">
  <a href="https://www.linkedin.com/in/benjamim-ndayisaba-22765727a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -29,7 +31,6 @@
 
 </div>
 <h1>
-Hey there! I'm a Computer Science student passionate about all things in tech. Whether it's coding up new projects, diving into ux/ui, data analisysis, machine learning, or just exploring the latest advancements in software development, I love expanding my knowledge and building cool stuff.
 
 ## 🚀 Interests & Skills
 
